@@ -1,8 +1,8 @@
-# Crie um novo jogo para teclado
+# Crie um jogo para teclado
 
 ## Instruções
 
-Crie um pequeno jogo que utiliza eventos do teclado para realizar ações. Pode ser uma variação de Typing Game ou um jogo que pinta pixels na tela ao apertar das teclas. Seja criativo!
+Crie um pequeno jogo que utiliza eventos do teclado para realizar ações. Pode ser uma variação de Typing Game ou um jogo que pinta píxeis na tela ao apertar das teclas. Seja criativo!
 
 ## Rúbrica
 
